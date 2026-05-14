@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm a recent Computer Science graduate looking to start my career as a software engineer. I write a program for everything I do, from investigating mathematical and linguistic curiosities that interest me to developing tools for my friend's business. Maybe I could build something for you too!",
-  skills: ["Javascript", "Python", ],
+  skills: ["Javascript", "Python", "Flutter", "SQL", "Firebase"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
