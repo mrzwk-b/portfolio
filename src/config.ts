@@ -50,6 +50,7 @@ export const siteConfig = {
       school: "Franklin University",
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2022 - 2025",
+      achievements: []
     },
   ],
 };
